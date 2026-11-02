@@ -95,5 +95,3 @@ Setiap makanan memiliki kode, nama, dan harga. Siswa dapat membeli beberapa jeni
 3. Buat minimal dua method pada setiap class.
 4. Tentukan hubungan antarkelas.
 5. Gambarkan Class Diagram beserta multiplicity-nya.
-
-**Catatan untuk siswa:** Class Diagram bukan menggambarkan urutan proses aplikasi, melainkan struktur kelas yang akan digunakan untuk membangun aplikasi.
