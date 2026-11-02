@@ -172,13 +172,10 @@ Berdasarkan studi kasus tersebut, buatlah **UML Class Diagram** dengan ketentuan
 1. Identifikasi minimal empat class yang diperlukan.
 2. Tentukan minimal empat atribut untuk setiap class beserta tipe datanya.
 3. Tentukan minimal tiga method yang sesuai dengan tanggung jawab setiap class.
-4. Tentukan visibility atribut dan method menggunakan:
-   - `+` untuk public
-   - `-` untuk private
-5. Gambarkan hubungan antarkelas menggunakan association yang sesuai.
-6. Tambahkan multiplicity seperti `1`, `0..1`, dan `0..*` pada setiap hubungan.
-7. Tentukan class dan method yang bertanggung jawab menghitung total biaya penyewaan.
-8. Tentukan class dan method yang bertanggung jawab memeriksa ketersediaan lapangan.
+4. Gambarkan hubungan antarkelas menggunakan association yang sesuai.
+5. Tambahkan multiplicity seperti `1`, `0..1`, dan `0..*` pada setiap hubungan.
+6. Tentukan class dan method yang bertanggung jawab menghitung total biaya penyewaan.
+7. Tentukan class dan method yang bertanggung jawab memeriksa ketersediaan lapangan.
 
 #### Tantangan Tambahan: Fitur Diskon Member
 
